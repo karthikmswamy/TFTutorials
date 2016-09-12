@@ -27,8 +27,9 @@ Once you have an Ubuntu bash running on your Windows machine do a sudo apt-get u
 Installing on Windows 8, 7 or earlier
 ------------------------------------------
 TensorFlow is not natively supported on Windows yet. You might need to install Ubuntu 14.04 on a VirtualBox and follow the instructions for Ubuntu below.
-VirtualBox for Windows: http://download.virtualbox.org/virtualbox/5.1.4/VirtualBox-5.1.4-110228-Win.exe
-Ubuntu 14.04 ISO: http://releases.ubuntu.com/14.04/ubuntu-14.04.4-desktop-amd64.iso
+
+- VirtualBox for Windows: http://download.virtualbox.org/virtualbox/5.1.4/VirtualBox-5.1.4-110228-Win.exe
+- Ubuntu 14.04 ISO: http://releases.ubuntu.com/14.04/ubuntu-14.04.4-desktop-amd64.iso
 
 Install Instructions
 -------------------------------
@@ -36,9 +37,9 @@ Follow the link below for installing TensorFlow based on the type of install:
 If you are the only one using TensorFlow, the easiest method to install is using pip. 
 If you would like to test TensorFlow before a full-fledged install, use the docker-based or virtualenv-based installation.
 
-Pip-based install: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#pip-installation
-Virtualenv-based install: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#virtualenv-installation
-Docker-based install: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#docker-installation
+- Pip-based install: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#pip-installation
+- Virtualenv-based install: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#virtualenv-installation
+- Docker-based install: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#docker-installation
 
 To install TFLearn you need to install TensorFlow. Once you've installed TensorFlow, follow the instructions in the link below to install TFLearn:
 http://tflearn.org/installation/#tflearn-installation
